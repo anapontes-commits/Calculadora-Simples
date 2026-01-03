@@ -1,0 +1,18 @@
+# Calculadora de Soma Simples
+
+Este é um projeto simples de uma **calculadora de soma**, desenvolvida com **HTML e JavaScript**, que permite somar dois números digitados pelo usuário e exibir o resultado na tela.
+
+## 🧮 Funcionalidades
+
+- Recebe dois números como entrada.
+- Calcula a soma dos números quando o usuário clica no botão.
+- Mostra o resultado diretamente na página.
+- Interface simples e limpa.
+
+## 💻 Tecnologias Utilizadas
+
+- **HTML5** – Estrutura da página.
+- **JavaScript** – Lógica para somar os números e atualizar o resultado.
+
+## 🖼️ Estrutura do Projeto
+
